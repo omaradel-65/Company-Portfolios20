@@ -86,7 +86,7 @@ Way to Find Property</p>
     {
       city: 'A small river named Duden flows by their place ',
       country: 'Your Property Is Our Priority',
-      img: 'https://f.top4top.io/p_2620n3mn01.jpg',
+      img: 'https://i.ibb.co/TgyKpNt/Whats-App-Image-2022-11-19-at-22-07-09.jpg',
     },
     {
       city: 'A small river named Duden flows by their place',
@@ -96,7 +96,7 @@ Way to Find Property</p>
     {
       city: 'A small river named Duden flows by their place',
       country: 'Let Your Home Be Unique & Stylist',
-      img: 'https://g.top4top.io/p_26209mvl72.jpg',
+      img: 'https://i.ibb.co/m9mcbR9/slide2.jpg',
     },
     {
       city: 'A small river named Duden flows by their place',
